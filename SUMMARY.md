@@ -1,8 +1,19 @@
 # Table of contents
 
-## 怪物图鉴
-
-* [Projects](README.md)
-* [Members](guai-wu-tu-jian/members.md)
-* [Task Lists](guai-wu-tu-jian/task-lists.md)
-* [Tasks](guai-wu-tu-jian/tasks.md)
+* [怪物图鉴](README.md)
+  * [关于怪物资料](guai-wu-tu-jian/guan-yu-guai-wu-zi-liao.md)
+  * [异怪](guai-wu-tu-jian/yi-guai.md)
+  * [野兽](guai-wu-tu-jian/ye-shou/README.md)
+    * [CR0-1/4](guai-wu-tu-jian/ye-shou/cr0-1-4.md)
+    * [CR1/2](guai-wu-tu-jian/ye-shou/cr1-2.md)
+    * [CR1](guai-wu-tu-jian/ye-shou/cr1.md)
+    * [CR2](guai-wu-tu-jian/ye-shou/cr2.md)
+    * [CR3](guai-wu-tu-jian/ye-shou/cr3.md)
+    * [CR4](guai-wu-tu-jian/ye-shou/cr4.md)
+    * [CR5](guai-wu-tu-jian/ye-shou/cr5.md)
+    * [CR6](guai-wu-tu-jian/ye-shou/cr6.md)
+    * [CR6+](guai-wu-tu-jian/ye-shou/cr6+.md)
+    * [集群生物](guai-wu-tu-jian/ye-shou/ji-qun-sheng-wu.md)
+    * [恐龙3](guai-wu-tu-jian/ye-shou/kong-long-3.md)
+  * [天界生物](guai-wu-tu-jian/tian-jie-sheng-wu.md)
+  * [构装生物](guai-wu-tu-jian/gou-zhuang-sheng-wu.md)
