@@ -1,4 +1,4 @@
-#CR6+
+# CR6+
 
 ## 巨猿GiantApe
 
